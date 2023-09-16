@@ -1,0 +1,44 @@
+Berikut kelebihan dan kekurangan bahasa pemrograman PHP secara umum
+- Kelebihan :
+1. bisa di pelajari sendiri lewat internet dengan gratis
+2. bahasa ini masuk ke kelas menengah,artinya orang awam pun bisa mempelajarinya
+3. membuat program tidak perlu dari awal, ada beberapa library yang dipakai untuk membuat program secara cepat
+4. proses pengembangan website tidak butuh waktu kompilasi yang lama
+5. tidak memerlukan loyalty atau segala macam, karena bahasa ini open source
+6. upgrade berjalan otomatis
+7. memiliki komunitas yang besar
+8. proyek yang berhubungan dengan PHP itu banyak, sehingga banyak peluang kerja
+
+- Kekurangan :
+1. sulit bersaing jika kemampuan masih pas pas an
+2. mudah di tiru orang lain
+
+PHP 7.0
+- Kelebihan:
+1. Peningkatan besar dalam kinerja dengan PHP 7 yang lebih cepat daripada versi-versi sebelumnya.
+2. Penanganan kesalahan yang lebih baik dengan model penanganan eksplisit.
+3. Dukungan untuk deklarasi tipe yang kuat.
+4. Fitur baru seperti null coalescing operator dan spaceship operator.
+
+- Kekurangan:
+- Kode lama mungkin tidak kompatibel dengan PHP 7, memerlukan migrasi dan perbaikan.
+- Beberapa ekstensi lama mungkin tidak bekerja dengan baik.
+
+PHP 8.0
+- Kelebihan :
+1. memiliki peningkatan kinerja signifikan dibandingkan dengan versi-versi sebelumnya. Ini dicapai dengan beralih ke JIT (Just-In-Time) compiler yang memungkinkan eksekusi kode PHP menjadi lebih cepat.
+2. memperkenalkan operator nullsafe yang memungkinkan akses yang aman ke properti objek dan pemanggilan metode bahkan jika objeknya adalah null. Ini mengurangi kemungkinan kesalahan ketika berurusan dengan objek yang mungkin null.
+3. Penambahan Tipe Data Union: Anda dapat menggunakan union types untuk mengizinkan berbagai jenis tipe data pada suatu parameter atau nilai kembalian fungsi.
+4. PHP 8.0 juga memperkenalkan berbagai fitur baru seperti match expression (pengganti switch), named arguments (argumen dengan nama), dan banyak perbaikan sintaksis dan fitur lainnya yang membuat kode PHP lebih bersih dan mudah dipahami.
+5. Peningkatan Keamanan: PHP 8.0 juga membawa peningkatan dalam hal keamanan, termasuk penanganan lebih baik terhadap serangan injeksi kode dan perbaikan lainnya.
+
+- Kekurangan :
+1. beberapa kode lama yang ditulis untuk versi PHP sebelumnya mungkin tidak kompatibel. Ini memerlukan pemutakhiran dan perbaikan.
+2. beberapa ekstensi PHP yang lebih lama mungkin tidak sepenuhnya mendukung PHP 8.0 atau mungkin memerlukan pembaruan tambahan.
+3. proses pembaruan ke PHP 8.0 dan penyesuaian kode mungkin memerlukan waktu dan upaya tambahan, terutama untuk proyek-proyek besar atau aplikasi yang kompleks.
+
+
+
+
+
+
